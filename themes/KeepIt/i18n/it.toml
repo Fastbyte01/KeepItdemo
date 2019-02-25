@@ -1,0 +1,37 @@
+# Translations for Italian
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Single.html
+
+[Written]
+other = "Scritto"
+
+[by]
+other = "da"
+
+[with]
+other = "con"
+
+[on]
+other = "il"
+
+[in]
+other = "in"
+
+[Author]
+other = "Autore"
+
+[Words]
+other = "Parole"
+
+[Tag]
+other = "Tag"
+
+[Home]
+other = "Home"
+
+[back]
+other = "Indietro"
+
+[minute]
+other = "minuto"
