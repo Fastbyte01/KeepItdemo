@@ -32,3 +32,36 @@ other = "Accueil"
 
 [back]
 other = "Retour"
+
+[minute]
+other = "minute"
+
+# 404.html
+
+[page]
+other = "Page"
+
+[not]
+other = "non"
+
+[found]
+other = "trouvée"
+
+[return]
+other = "Retourner"
+
+[to]
+other = "à"
+
+# Pagination
+
+[More]
+other = "Plus"
+
+# Related post
+
+[Related]
+other = "Articles"
+
+[Articles]
+other = "Similaires"

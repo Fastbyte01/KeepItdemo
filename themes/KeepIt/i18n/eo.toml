@@ -1,37 +1,37 @@
-# Translations for Italian
+# Translations for Esperanto
 # https://gohugo.io/content-management/multilingual/#translation-of-strings
 
 # Single.html
 
 [Written]
-other = "Scritto"
+other = "Skribita"
 
 [by]
-other = "da"
+other = "de"
 
 [with]
-other = "con"
+other = "kun"
 
 [on]
 other = "il"
 
 [in]
-other = "in"
+other = "sur"
 
 [Author]
-other = "Autore"
+other = "Aŭtoro"
 
 [Words]
-other = "Parole"
+other = "Vortoj"
 
 [Tag]
 other = "Tag"
 
 [Home]
-other = "Home"
+other = "Hejmo"
 
 [back]
-other = "Indietro"
+other = "Reen"
 
 [minute]
 other = "minuto"
@@ -39,29 +39,29 @@ other = "minuto"
 # 404.html
 
 [page]
-other = "pagina"
+other = "paĝo"
 
 [not]
-other = "non"
+other = "ne"
 
 [found]
-other = "trovata"
+other = "trovita"
 
 [return]
-other = "Torna"
+other = "Revenu"
 
 [to]
-other = "alla"
+other = "al"
 
 # Pagination
 
 [More]
-other = "Altro"
+other = "Pli"
 
 # Related post
 
 [Related]
-other = "Articoli"
+other = "Similaj"
 
 [Articles]
-other = "Correlati"
+other = "Artikoloj"

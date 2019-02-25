@@ -6,16 +6,18 @@ KeepIt is a clean, elegant, simple but not simpler blog theme for Hugo based on 
 ![hugo-theme-KeepIt](https://github.com/Fastbyte01/KeepIt/blob/master/images/screenshot.png)
 
 # Demo
-To see this theme in action,  Here is a live [demo site](https://www.fsb01.com) which is rendered with this theme.
+To see this theme in action,  Here is a live [demo site](https://suspicious-archimedes-ab369d.netlify.com) which is rendered with this theme.
 
 # Features
 
 * Optimized for performance: 99/100 on mobile and 100/100 on desktop in Google PageSpeed Insights
 * Optimized SEO performance with a correct SEO SCHEMA based on JSON-LD
 * A More coerent style beetwen page and sections
-* Multilanguage support.
+* Multilanguage support
+* Pagination support
 * Added configuration file for use on [Netlify](https://www.netlify.com)
-* Dark/Light mode 
+* Dark/Light mode
+* Over 15 social sites supported out-of-the-box
 * Wrap Image with Figure Tag without Shortcode. Thanks [Junian.Net](https://www.junian.net/hugo-image-figure-wrap/)
 * Load images with Lazy Load By [lazysizes](https://github.com/aFarkas/lazysizes)
 * Automatically highlighting code By [Google code-prettify](https://github.com/google/code-prettify), Customizable styles via CSS. See the [themes gallery](https://rawgit.com/google/code-prettify/master/styles/index.html).
@@ -87,7 +89,7 @@ HUGO_ENV=production hugo --gc --minify
 This theme write style with scss, So you must download and install the “extended” Sass/SCSS version
 
 #### How to toggle dark-light mode
-* You can click the love heart ❤️ in front of your blog title to toggle dark-light mode. I don't think it's a good interaction design. But I don't have a good idea.
+* You can click the sun logo to toggle dark-light mode. In the desktop version the sun logo is to the right and in the mobile version is positioned to the left, close to the site title.
 * If you want to make your own theme toggle-able element, you can create an element with a class `.theme-switch`. See [here](https://github.com/Fastbyte01/KeepIt/blob/master/assets/js/main.js#L32)
 
 # Home Post model

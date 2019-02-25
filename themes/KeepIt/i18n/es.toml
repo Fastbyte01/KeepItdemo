@@ -28,10 +28,40 @@ other = "Palabras"
 other = "Etiqueta"
 
 [Home]
-other = "Home"
+other = "Casa"
 
 [back]
 other = "Atrás"
 
 [minute]
 other = "minuto"
+
+# 404.html
+
+[page]
+other = "página"
+
+[not]
+other = "no"
+
+[found]
+other = "encontrada"
+
+[return]
+other = "Volver"
+
+[to]
+other = "a"
+
+# Pagination
+
+[More]
+other = "Más"
+
+# Related post
+
+[Related]
+other = "Artículos"
+
+[Articles]
+other = "Similares"
