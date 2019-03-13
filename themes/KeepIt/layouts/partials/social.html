@@ -25,8 +25,14 @@
 {{ with .Site.Params.Social.Gitlab}}
 <a href="https://gitlab.com/{{.}}" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-gitlab"></i></a>
 {{ end }}
-{{ with .Site.Params.Social.Youtube}}
+{{ with .Site.Params.Social.Youtubelegacy}}
 <a href="https://www.youtube.com/user/{{.}}" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-youtube"></i></a>
+{{ end }}
+{{ with .Site.Params.Social.Youtubecustom}}
+<a href="https://www.youtube.com/c/{{.}}" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-youtube"></i></a>
+{{ end }}
+{{ with .Site.Params.Social.Youtubechannel}}
+<a href="https://www.youtube.com/channel/{{.}}" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-youtube"></i></a>
 {{ end }}
 {{ with .Site.Params.Social.Tumblr}}
 <a href="https://{{.}}.tumblr.com" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-tumblr"></i></a>
@@ -54,4 +60,13 @@
 {{ end }}
 {{ with .Site.Params.Social.Weibo}}
 <a href="https://weibo.com/{{.}}" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-weibo"></i></a>
+{{ end }}
+{{ with .Site.Params.Social.Odnoklassniki}}
+<a href="https://ok.ru/{{.}}" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-odnoklassniki"></i></a>
+{{ end }}
+{{ with .Site.Params.Social.VKontakte}}
+<a href="https://vk.com/{{.}}" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-vk"></i></a>
+{{ end }}
+{{ with .Site.Params.Social.Flickr}}
+<a href="https://www.flickr.com/photos/{{.}}" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-flickr"></i></a>
 {{ end }}
