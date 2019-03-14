@@ -8,6 +8,7 @@ paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
+disqusShortname = "example"
 
 [sitemap]
   changefreq = "monthly"
@@ -48,6 +49,13 @@ googleAnalytics = ""
 
     google_verification = ""
 
+    socialShare = true
+    
+    
+
+
+    
+
     description = "" # site description
     keywords = "" # site keywords
 
@@ -63,7 +71,9 @@ googleAnalytics = ""
     Telegram = "xxxx"
     Medium = "xxxx"
     Gitlab = "xxxx"
-    Youtube = "xxxx"
+    Youtubelegacy = "xxxx"
+    #Youtubecustom = "xxxx"
+    #Youtubechannel = "xxxx"
     Tumblr ="xxxx"
     Quora = "xxxx"
     Keybase = "xxxx"
@@ -72,6 +82,19 @@ googleAnalytics = ""
     Codepen = "xxxx"
     Bitbucket = "xxxx"
     Stackoverflow = "xxxxx"
+    Weibo = "xxxx"
+    Odnoklassniki = "xxxx"
+    VKontakte = "xxxx"
+    Flickr = "xxxx"
+    Xing = "xxxx"
+    Snapchat = "xxxx"
+    Soundcloud = "xxxx"
+    Spotify = "xxxx"
+    Bandcamp = "xxxx"
+    Paypal = "xxxx"
+    Fivehundredpx = "xxxx"
+    Mix = "xxxx"
+
 
 # Used only for Seo schema 
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
