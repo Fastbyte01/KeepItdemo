@@ -50,13 +50,13 @@ disqusShortname = "yourdiscussshortname"
 
     socialShare = true
     
-[params.gravatar]
-    email = ""
-
     description = "" # site description
     keywords = "" # site keywords
 
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+[params.gravatar]
+    email = ""
 
 [params.social]
     GitHub = "xxxx"
@@ -103,6 +103,14 @@ disqusShortname = "yourdiscussshortname"
     #Skype = "xxxx"
     #Whatsapp = "xxxx"
 
+[params.share]
+Twitter = true
+Facebook = true
+#Reddit = true
+Linkedin = true
+#Pinterest = true
+#HackerNews = true
+#Mix = true
 
 # Used only for Seo schema 
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
