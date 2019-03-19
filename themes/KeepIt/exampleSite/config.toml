@@ -102,6 +102,16 @@ disqusShortname = "yourdiscussshortname"
     #Strava = "xxxx"
     #Skype = "xxxx"
     #Whatsapp = "xxxx"
+    #Zhihu = "xxxx"
+    #Douban = "xxxx"
+    #Angellist = "xxxx"
+    #Slidershare = "xxxx"
+    #Jsfiddle = "xxxx"
+    #Deviantart = "xxxx"
+    #Behance = "xxxx"
+    #Dribble = "xxxx"
+    #Wordpress = "xxxx"
+    #Vine = "xxxx"
 
 [params.share]
 Twitter = true
@@ -111,6 +121,10 @@ Linkedin = true
 #Pinterest = true
 #HackerNews = true
 #Mix = true
+#Tumblr = true
+#VKontakte = true
+#Douban = true
+#Weibo = true
 
 # Used only for Seo schema 
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
