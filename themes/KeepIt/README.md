@@ -11,7 +11,7 @@ To see this theme in action,  Here is a live [demo site](https://suspicious-arch
 People that are using **KeepIt**:
 
 * [PapEr](https://page.codespaper.com)
-* [SilkeHenderickx](https://www.silkehenderickx.be)
+* [SilkeHenderickx](http://www.silkehenderickx.be)
 
 # Features
 
@@ -24,10 +24,12 @@ People that are using **KeepIt**:
 * Disqus Comment System
 * Gitalk Comment System
 * Gravatar Support
+* Local Avatar Support
 * Share post support
+* Search engine verification support (Google, Bind, Yandex and Baidu)
 * Added configuration file for use on [Netlify](https://www.netlify.com)
 * Dark/Light mode
-* Up to 50 social sites supported out-of-the-box [see the list here](https://github.com/Fastbyte01/KeepIt/wiki/List-of-social-platforms-supported-out-of-box)
+* Up to 54 social sites supported out-of-the-box [see the list here](https://github.com/Fastbyte01/KeepIt/wiki/List-of-social-platforms-supported-out-of-box)
 * Translation ready
 * Wrap Image with Figure Tag without Shortcode. Thanks [Junian.Net](https://www.junian.net/hugo-image-figure-wrap/)
 * Load images with Lazy Load By [lazysizes](https://github.com/aFarkas/lazysizes)
@@ -43,7 +45,7 @@ cd themes
 git clone https://github.com/Fastbyte01/KeepIt.git
 ```
 
-Next, open config.toml in the base of the Hugo site and ensure the theme option is set to mainroad:
+Next, open config.toml in the base of the Hugo site and ensure the theme option is set to KeepIt:
 ```bash
 theme = "KeepIt"
 ```

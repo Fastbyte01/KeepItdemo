@@ -47,7 +47,12 @@ disqusShortname = "yourdiscussshortname"
     home_mode = "" # post or other
 
     google_verification = ""
-
+    bing_verification = ""
+    yandex_verification = ""
+    pinterest_verification = ""
+    baidu_verification = ""
+    
+    avatar = "/images/me/avatar.jpg" #comment it to use gravatar
     socialShare = true
     
     description = "" # site description
@@ -56,7 +61,8 @@ disqusShortname = "yourdiscussshortname"
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [params.gravatar]
-    email = ""
+    #email = "example@gmail.com"   #uncomment and insert your email address to use gravatar
+
 
 [params.social]
     GitHub = "xxxx"
@@ -112,6 +118,10 @@ disqusShortname = "yourdiscussshortname"
     #Dribble = "xxxx"
     #Wordpress = "xxxx"
     #Vine = "xxxx"
+    #Googlescholar = "xxxx"
+    #Researchgate = "xxxx"
+    #Mastodon = "xxxx"
+    #Thingiverse = "xxxx"
 
 [params.share]
 Twitter = true
