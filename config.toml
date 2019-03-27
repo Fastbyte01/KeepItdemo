@@ -48,6 +48,7 @@ disqusShortname = "yourdiscussshortname"
 
     google_verification = ""
 
+    avatar = "/images/me/avatar.jpg" #comment it to use gravatar
     socialShare = true
     
     description = "" # site description
@@ -56,7 +57,7 @@ disqusShortname = "yourdiscussshortname"
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [params.gravatar]
-    email = ""
+    #email = ""
 
 [params.social]
     GitHub = "xxxx"
