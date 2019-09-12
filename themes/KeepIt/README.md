@@ -23,6 +23,9 @@ People that are using **KeepIt**:
 * Google Analytics support
 * Disqus Comment System
 * Gitalk Comment System
+* Valine Comment System
+* Gitment Comment System
+* Utterances Comment System
 * Gravatar Support
 * Local Avatar Support
 * Share post support
