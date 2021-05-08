@@ -15,4 +15,4 @@ series:
 
 ## Gallery Test
 
-![test](images/me/avatar.jpeg)
+![test](https://deploy-preview-28--bwplotka.netlify.app/og-images/santorini.jpg)
