@@ -15,4 +15,4 @@ series:
 
 ## Gallery Test
 
-![test](../../static/images/me/avatar.jpeg)
+![test](images/me/avatar.jpeg)
