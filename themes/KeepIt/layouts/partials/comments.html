@@ -1,5 +1,4 @@
 {{ if and .IsPage (ne .Params.comment false) -}}
-   <div id="comments">
         {{- /* Disqus Comment System */ -}}
         {{- $disqus := $comment.disqus | default dict -}}
         {{- if $disqus.enable -}}
