@@ -68,3 +68,17 @@ other = "Related"
 
 [Articles]
 other = "Articles"
+
+# === partials/comment.html ===
+[valineLang]
+other = "en"
+
+[valinePlaceholder]
+other = "Your comment ..."
+
+[facebookLanguageCode]
+other = "en_US"
+
+[giscusLang]
+other = "en"
+# === partials/comment.html ===
