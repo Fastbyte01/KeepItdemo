@@ -22,6 +22,8 @@
                 {{- end }}
                 <i class="iconfont icon-timer"></i>
                 {{.ReadingTime }} min
+            {{- $comment := .Scratch.Get "comment" | default dict -}}
+                {{- if $comment.enable | and $comment.valine.enable | and $comment.valine.visitor -}}
         </div>
     </header>
     <div class="post-content">
