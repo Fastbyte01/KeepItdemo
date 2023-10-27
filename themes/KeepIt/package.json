@@ -10,10 +10,6 @@
     "copy": "rm -rf resources && cp -rf exampleSite/resources resources",
     "prepare": "husky install"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Fastbyte01/KeepIt.git"
-  },
   "keywords": [
     "hugo",
     "theme"
