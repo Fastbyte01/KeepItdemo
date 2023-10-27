@@ -1,19 +1,4 @@
 {
-  "name": "keepit-src",
-  "version": "0.2.0",
-  "description": "KeepIt theme source file",
-  "private": true,
-  "devDependencies": {
-    "@algolia/cli": "^4.0.8",
-    "@babel/cli": "^7.17.10",
-    "@babel/core": "^7.17.10",
-    "@babel/preset-env": "^7.17.10",
-    "babelify": "^10.0.0",
-    "browserify": "^16.5.2",
-    "core-js": "^3.22.4",
-    "husky": "^7.0.0",
-    "segmentit": "^2.0.3"
-  },
   "scripts": {
     "preinstall": "npx npm-force-resolutions",
     "babel": "npx babel src/js --out-file assets/js/theme.js",
